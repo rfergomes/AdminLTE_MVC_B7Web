@@ -2,7 +2,7 @@
 namespace src;
 
 class Config {
-    const BASE_DIR = '/sistema_mvc/public';
+    const BASE_DIR = '/sistema_mvc/';
 
     const DB_DRIVER = 'mysql';
     const DB_HOST = 'localhost';
