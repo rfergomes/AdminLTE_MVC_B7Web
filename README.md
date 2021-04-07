@@ -1,3 +1,8 @@
+** AdminLTE ** é um modelo de administração totalmente responsivo. Baseado no framework ** [Bootstrap 4.6] (https://getbootstrap.com/) ** e também no plugin JS / jQuery.
+Altamente personalizável e fácil de usar. Compatível com várias resoluções de tela, de pequenos dispositivos móveis a grandes desktops.
+
+** Visualização em [AdminLTE.io] (https://adminlte.io/themes/v3) **
+
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
@@ -30,5 +35,4 @@ use \core\Model;
 class Usuario extends Model {
 
 }
-```"# AdminLTE_MVC_B7Web" 
-"# AdminLTE_MVC_B7Web" 
+
