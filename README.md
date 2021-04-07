@@ -1,4 +1,5 @@
-** AdminLTE ** é um modelo de administração totalmente responsivo. Baseado no framework ** [Bootstrap 4.6] (https://getbootstrap.com/) ** e também no plugin JS / jQuery.
+## AdminLTE 
+**É um modelo de administração totalmente responsivo. Baseado no framework** [Bootstrap 4.6] (https://getbootstrap.com/) ** e também no plugin JS / jQuery.
 Altamente personalizável e fácil de usar. Compatível com várias resoluções de tela, de pequenos dispositivos móveis a grandes desktops.
 
 ** Visualização em [AdminLTE.io] (https://adminlte.io/themes/v3) **
@@ -10,6 +11,13 @@ Ao descompactar, é necessário rodar o **composer** pra instalar as dependênci
 
 Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
 > composer install
+** Visualização em [AdminLTE.io] (https://adminlte.io/themes/v3) **
+
+## Instalação
+Você pode clonar este repositório OU baixar o .zip
+
+Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
+
 
 Depois é só aguardar.
 
